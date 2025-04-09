@@ -1,5 +1,5 @@
 export default function Skills() {
-    const skills = ['PHP', 'Python', 'JavaScript', 'TypeScript', 'SQL', 'Laravel', 'Node.js', 'Angular', 'Bootstrap', 'Git', 'MySQL', 'Excel', 'Power BI'];
+    const skills = ['PHP', 'Python', 'JavaScript', 'TypeScript', 'SQL', 'Laravel', 'Node.js', 'Angular', 'Bootstrap', 'Git', 'MySQL', 'Excel', 'Power BI','React','NextJS','Tailwind CSS'];
 
   return (
     <section id="skills" className="section">
