@@ -1,7 +1,15 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-const projectDetails = {
+const projectDetails: Record<string, {
+  title: string;
+  description: string;
+  frameworks: string;
+  role: string;
+  date: string;
+  images: string[];
+  github?: string; 
+}> = {
   'imdb-api': {
   title: 'IMDb API Integration & Favorite Management',
   description: 'A personal project to integrate IMDb API with Angular, allowing users to search for movies and add their favorites using LocalStorage.',
