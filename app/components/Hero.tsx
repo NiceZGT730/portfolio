@@ -109,7 +109,7 @@ export default function Hero() {
           />
         </h1>
         <p className="text-base md:text-lg max-w-xl mx-auto animate-fade-in">
-          Designing and building the future of web technology.
+        Crafting practical web solutions with code and creativity.
         </p>
         <div className="flex justify-center space-x-4">
           <a href="#projects" className="btn inline-block animate-fade-in">
