@@ -116,7 +116,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="https://github.com/banditchaluay"
+            href="https://github.com/NiceZGT730"
             target="_blank"
             rel="noopener noreferrer"
             className="btn inline-block animate-fade-in bg-[var(--color-secondary)] hover:bg-[var(--color-primary)]"
